@@ -1,4 +1,4 @@
-# 📚 Book Purchase Web App (React + Express)
+# 📚 Book Listing Web App (React + Express)
 
 This is a simple full-stack application where users can view a collection of books and place an order.  
 Frontend is built with **React + Tailwind CSS**, and the backend is built with **Express.js**.
